@@ -17,6 +17,7 @@ Bienvenue dans notre application web combinant **génération de datasets** et *
    - [Backend (Python)](#backend-python)
    - [Frontend (React)](#frontend-react)
 
+6. [video demonstartive](#-video-demonstrative)
 ---
 
 ## 🚀 Description du Projet
@@ -127,7 +128,12 @@ Lancez le serveur Flask en exécutant :
 
  modele image-to image https://colab.research.google.com/github/oumaimasaad-debug/Controle/blob/master/flux_image_to_image.ipynb
 
+ ## video demonstrative
  
+
+https://github.com/user-attachments/assets/2cdf3ede-52ae-4fb2-aa87-b93e8cc5e524
+
+
  **NB**
 
  n'oubliez pas de modifier les liens gradio des deux modéles dans le backend 
