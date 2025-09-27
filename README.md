@@ -130,7 +130,6 @@ Lancez le serveur Flask en exécutant :
 
  ## video demonstrative
  
-
 https://github.com/user-attachments/assets/2cdf3ede-52ae-4fb2-aa87-b93e8cc5e524
 
 
